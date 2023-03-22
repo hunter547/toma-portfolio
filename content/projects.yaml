@@ -1,3 +1,4 @@
+# Volunteering Section
 - name: Harrisonburg Rescue Squad
   url: https://www.harrisonburgrescue.org/
   description: Responded to 911 calls as an EMT preceptor - responsible for patient care, debreif to nurses at the hospital, and submitting detailed call reports.
@@ -8,12 +9,43 @@
   icon: website
   image: images/hrs.png
 
-- name: SafeHouse Denver
-  url: https://safehouse-denver.org/about/mission.html
-  description: Was apart of the medical standby team in case of any injuries during a Female Tales Untold charity run.
+- name: Female Tales Untold
+  url: https://www.32auctions.com/FTU2023
+  description: Was apart of the RVU student team dedicated to preparing the event for attendees and sourcing the auction art. All proceeds from the auction went to SafeHouse Denver, a shelter for women experiencing domestic violence. 
   status: 
   tags:
-    - Medical Standby
-    - Patient Care
+    - Female Empowerment
   icon: website
-  image: images/shd.jpeg
+  image: images/ftu.jpg
+
+# Certificates Section
+- name: RVU Sexual Health Summit
+  url: 
+  description: 
+  status:
+  tags:
+    - Sexual Health
+    - Patient Care
+  icon: 
+  image: images/shs.jpeg
+  staticFilename: Certificate_of_Completion_Sexual-Health-Summit_Evanoff-Tamara.pdf
+
+- name: RVU Spring Leadership Seminar
+  description: 
+  status:
+  tags:
+    - Leadership Principals
+    - Team Management
+  icon: 
+  image: images/sls.jpeg
+  staticFilename: Certificate_of_Completion_AML_Seminar_2022-2023_Evanoff_Toma.pdf
+
+- name: Bayer Reproductive Health Workshop
+  description: 
+  status:
+  tags:
+    - Birth Control Medications
+    - Planned Parenthood
+  icon: 
+  image: images/bep.jpeg
+  staticFilename: Tamara-Evanoff_2023-02-11.pdf

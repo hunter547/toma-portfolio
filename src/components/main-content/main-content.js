@@ -22,7 +22,9 @@ const MainContent = ({ formspreeEndpoint, history, projects, profile }) => {
       </div>
 
       {profile.about && <About about={profile.about} />}
-      <Projects projects={projects} />
+      <Projects projects={projects.slice(0, 2)} headerText="Volunteering" />
+      <div className="mt-20"></div>
+      <Projects projects={projects.slice(2, 5)} headerText="Certificates" />
       <WorkHistory history={history} />
       <ContactForm
         formspreeEndpoint={formspreeEndpoint}

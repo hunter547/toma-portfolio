@@ -40,6 +40,10 @@ const SEO = props => {
           content: title,
         },
         {
+          property: `og:image`,
+          content: `https://toma-evanoff.netlify.app/ogImage.png`
+        },
+        {
           property: `og:description`,
           content: description,
         },
