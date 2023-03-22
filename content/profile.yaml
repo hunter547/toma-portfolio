@@ -1,0 +1,28 @@
+- profile:
+  initials: TE
+  name: Toma Evanoff
+  profession: Student Doctor
+  image: images/profile.jpg
+  location: Parker, CO
+  relocation: false
+  company: Rocky Vista University
+  for_hire: true
+  focus: Johns Hopkins University
+  focus_url: https://advanced.jhu.edu/academics/graduate/ms-biotechnology/
+  about: |
+    Current OMS I student and a member of a scientist physician track at RVUCOM. I enjoy working in the lab and hope to accelerate my skills in research.
+
+    Away from school I am a mother, wife, and avid traveler. Anytime there is a break from school, we all pack into the car and explore the outdoors. 🙂 
+  skills:
+    - Cell Culture Handling and Preparation
+    - Aseptic and Sterile Techniques
+    - PCR Techniques
+  tools:
+    - Research
+    - Shadowing
+    - Volunteering
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

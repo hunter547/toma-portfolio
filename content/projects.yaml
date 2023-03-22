@@ -1,0 +1,19 @@
+- name: Harrisonburg Rescue Squad
+  url: https://www.harrisonburgrescue.org/
+  description: Responded to 911 calls as an EMT preceptor - responsible for patient care, debreif to nurses at the hospital, and submitting detailed call reports.
+  status: 
+  tags:
+    - EMT
+    - Patient Care
+  icon: website
+  image: images/hrs.png
+
+- name: SafeHouse Denver
+  url: https://safehouse-denver.org/about/mission.html
+  description: Was apart of the medical standby team in case of any injuries during a Female Tales Untold charity run.
+  status: 
+  tags:
+    - Medical Standby
+    - Patient Care
+  icon: website
+  image: images/shd.jpeg
